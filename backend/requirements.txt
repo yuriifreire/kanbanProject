@@ -1,0 +1,6 @@
+fastapi==0.95.2       # Framework web
+uvicorn==0.22.0       # Servidor ASGI
+sqlalchemy==2.0.15    # ORM para banco de dados
+psycopg2-binary==2.9.6 # Adaptador PostgreSQL
+python-dotenv==1.0.0  # Para ler variáveis de ambiente
+pydantic==1.10.7      # Validação de dados
